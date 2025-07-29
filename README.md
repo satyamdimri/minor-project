@@ -1,2 +1,1 @@
-# minor-project
-### this is a repo for our Minor Project of 5th Sem
+This is minor project for 5th sem
